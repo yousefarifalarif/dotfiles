@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = yousefarifagha@gmail.com
+	name = yousef arif
